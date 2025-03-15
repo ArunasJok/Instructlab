@@ -19,3 +19,40 @@ The course is delivered using our award-winning online delivery platform – **T
 ## Fee
 
 - **Fee for employed people:** €900
+# Marijampolė
+
+**Marijampolė** (pronunciationⓘ; also known by several other names) is the capital of Marijampolė County in the south of Lithuania, bordering Poland, Russian Kaliningrad Oblast, and Lake Vištytis. The city's population was approximately **48,700 in 2003**. It is the cultural centre and largest settlement of the historical region of **Suvalkija (Sudovia)**.
+
+## Overview
+
+- **Seventh-largest city in Lithuania:** Marijampolė has been a regional center since 1994.
+- **Area:** 205.07 square kilometres (79.18 sq mi).
+- **Geographical Feature:** The Šešupė River divides the city into two parts, which are connected by six bridges.
+
+## Cultural Significance
+
+The city is renowned for the international art and architecture symposium **Malonny**, an event focused on street art, murals, and public installations that transform Marijampolė's urban spaces into an open-air art gallery.
+
+[1]
+# Platform Engineering
+
+**Platform engineering** is a practice built up from DevOps principles that seeks to improve each development team’s security, compliance, costs, and time-to-business value through enhanced developer experiences and self-service within a secure, governed framework. It represents both a product-based mindset shift and a set of tools and systems to support that shift.
+
+## Industry Trends
+
+Lately, there has been a lot of industry excitement around the term platform engineering. Gartner expects that around **80% of engineering organizations** will have a dedicated platform engineering team by 2026. These teams focus on building what is known as an **internal developer platform**. Regardless of domain – whether it's sales (Microsoft Dynamics, Salesforce), service fulfillment (ServiceNow), or communications (Twilio) – platforms are inherently designed to achieve scale and reduce the time it takes to deliver business value.
+
+## Developer Platforms
+
+Platforms that developers either use or extend have the power to eliminate toil throughout the development process by providing highly optimized developer experiences and simplified operations. These platforms include tools that:
+
+- **Empower Developer Self-Sufficiency:**  
+  Tools such as starter kits and IDE plugins help developers work more independently.
+- **Assist with Common Tasks:**  
+  They offer built-in solutions for routine tasks.
+- **Encapsulate Reusable Patterns:**  
+  Common patterns and practices are packaged into reusable building blocks.
+- **Provide Early Advice and Feedback:**  
+  Platforms can offer immediate guidance on issues or potential security risks.
+- **Simplify Operations:**  
+  They manage underlying infrastructure and tools, reducing operational complexity.
