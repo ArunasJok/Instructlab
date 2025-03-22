@@ -56,3 +56,6 @@ Platforms that developers either use or extend have the power to eliminate toil 
   Platforms can offer immediate guidance on issues or potential security risks.
 - **Simplify Operations:**  
   They manage underlying infrastructure and tools, reducing operational complexity.
+
+  ##Who is Arunas Jokubynas
+  Arunas Jokubynas was born in Marijampole in 1986, graduated the school in 2005 and got in to Vilnius Getiminas Technical University to study construction engineering. Got bachelors degree in 2010. Emigrated to Ireland, worked in retail for about 10 years and changed the career in 2020 when he got into Waterford Institute of Technology. Now he work in Canadalife Group (Irish life) as platforms engineer.
